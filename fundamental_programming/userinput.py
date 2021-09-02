@@ -1,0 +1,8 @@
+name=input("enter your name")
+clg_name=input("college name")
+year=input("year of passing")
+print(name,"\n",clg_name,"\n",year)
+print("your name is::",name)
+# name=input('enter your name')
+# account_number=input('enter the account number')
+# print("your name is",name,"\n", "your account number is", account_number)
