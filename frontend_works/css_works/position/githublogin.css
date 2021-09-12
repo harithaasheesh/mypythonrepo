@@ -1,0 +1,68 @@
+.git{
+    position: absolute;
+    left: 50%;
+}
+.signin{
+    position: absolute;
+    left: 45%;
+    top: 10%;
+}
+.border{
+    border: 1px solid #8a8c89;
+    width: 340px;
+    height: 250px;
+    position:absolute;
+    left: 38%;
+    top: 20%;
+    background-color: #f2f5f4;
+}
+#username{
+    position:absolute;
+    left: 40%;
+    top: 30%;
+}
+.user{
+    position: absolute;
+    left: 40%;
+    top: 25%;
+}
+.forgotpswd{
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    color: dodgerblue;
+}
+.password{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+#paswd{
+    position: absolute;
+    left: 40%;
+    top: 45%;
+}
+.submit{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+.newacnt{
+    
+    background-color: #f2f5f4;
+    position: absolute;
+    width: 25%;
+    height: 15%;
+    left: 40%;
+    top: 75%;
+}
+.accnt{
+    color: dodgerblue;
+    position:absolute;
+    top: 50%;
+    left: 40%;
+}
+.labelacnt{
+    position:absolute;
+    top: 50%;
+}

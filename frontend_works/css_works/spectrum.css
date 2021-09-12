@@ -7,7 +7,7 @@ h1{
     text-align: center;
     font-family: 'Oswald', sans-serif;
 }
-.first{
+/* .first{
     border: 1px solid #262224;
     background-color: #262224;
     height: 20%;
@@ -49,4 +49,35 @@ h1{
     padding: 4%;
     margin-left: 65%;
     margin-top: -8%;
+} */
+div{
+    width: 30%;
+    height: 160px;
+    float: left;
+    border: 1px solid black;
+}
+
+.first{
+    margin-left: 400px;
+    background-color: blueviolet;
+}
+.second{
+    margin-left: 520px;
+    margin-top: -43%;
+    background-color: chartreuse;
+}
+.third{
+    margin-left: 640px;
+    background-color: darkcyan;
+    margin-top: -43%;
+}
+.forth{
+    margin-left: 760px;
+    background-color: dodgerblue;
+    margin-top: -43%;
+}
+.fifth{
+    margin-left: 880px;
+    background-color: gold;
+    margin-top: -43%;
 }
