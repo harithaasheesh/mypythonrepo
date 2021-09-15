@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+body{
+    background-color: #edf1fa;
+}
+.facebbok{
+    font-size:50px;
+    text-align: center;
+    position: relative;
+    color:#1161ed;
+    font-family: 'Crete Round', serif;
+}
+.login{
+    width: 430px;
+    height: 350px;
+    border: 1px solid #edf1fa;
+    position: absolute;
+    left: 32%;
+    background-color: white;
+}
+.email{
+    position: absolute;
+    text-align: center;
+    left: 6%;
+    top: 30%;
+    height: 50px;
+    width: 370px;
+}
+.loginto{
+    font-size: 22px;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+}
+.password{
+    position: absolute;
+    text-align: center;
+    border: 1px solid;
+    border-color:#dfe2eb ;
+    left: 6%;
+    top: 60%;
+    height: 50px;
+    width: 370px;
+}
+.button{
+    position: absolute;
+    left: 22%;
+    top: 88%;
+    color: white;
+    width: 50%;
+    height: 12%;
+    background-color: #1161ed;
+
+}
